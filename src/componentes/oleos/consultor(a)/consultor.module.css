@@ -1,0 +1,19 @@
+.caixona{
+    width: 100%;
+
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.caixa{
+    width: 100%;
+    height: auto;
+
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    margin-top: 35px;
+
+}

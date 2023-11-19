@@ -1,0 +1,14 @@
+.tudo img{
+    width: 100%;
+    height: auto;
+    padding-top: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.tudo{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}

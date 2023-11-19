@@ -1,0 +1,29 @@
+.caixona{
+    position: relative;
+    width: 270px;
+    height: 500px;
+    text-align: center;
+    color: #210101;
+    font-size: 18px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+.imagem{
+    width: 270px;
+    height: 270px;
+    background-color: #5f2a2a;
+  
+}
+.imagem img{
+    width: 240px;
+ 
+}
+p{font-size: 16px;
+    text-align: center;
+     display:flex;
+     
+    
+}

@@ -1,0 +1,141 @@
+.tudo{
+    height: 200px;
+    
+   
+}
+.promocao{
+    width: 100%;
+    height: 30px;
+    color: rgb(52, 50, 50);
+    font-size: 13px;
+    text-align: center;
+    background-color: rgba(239, 233, 233, 0.633);
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    border: solid 1px #cfcfcf;
+    font-size: 14px;
+
+   
+    
+    
+}
+svg{
+
+    margin-right: 20px;
+}
+
+.headerlogo{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+    
+
+
+}
+
+.daco{
+    width: 20px;
+    height: 20px;
+}
+
+.logo{
+    width: 300px;
+    height: 60px;
+    float: left;
+    margin-left: 30px;
+
+}
+
+.forms{
+    width:700px;
+    height: 80px;
+
+    margin-left: 250px;
+    float: left;
+    align-items: center;
+    display: flex;
+    margin-right: 40px;
+}
+
+
+.pedido{
+    width: 250px;
+    height: 30px;
+    text-align: center;
+    border-radius: 20px;
+    border: 1px solid rgb(157, 157, 157);
+    margin: 40px;
+}
+
+.desconto{
+    width: 250px;
+    height: 30px;
+    text-align: center;
+    border-radius: 20px;
+    margin-left: 20px;
+    border: 1px solid rgb(157, 157, 157);
+    margin-left: 0px;
+}
+
+.desconto:hover{
+    background-color: greenyellow;
+    transition: 0.5s;
+
+}
+
+.forms svg {
+    width: 30px;
+    height: 30px;
+    margin-left: 40px;
+    color: rgb(157, 157, 157);
+}
+
+.link{
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+    border: #cfcfcf  solid ;
+    border-width: 1px  0px 1px 0px;
+}
+.link2{
+    text-decoration: none;
+    color: #454343;
+    font-weight: 400;
+    font-size: 13PX;
+}
+.link ul{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+    font-size: 14px;
+    margin-top: 0;
+  margin-bottom: 0;
+  margin: 0;
+  font-family: Montserrat,sans-serif;
+}
+.link ul li{
+    margin-left: 40px;
+    list-style: nonE;
+    color: rgb(12, 5, 5);
+    font-family: Montserrat,sans-serif;
+    margin: 30px;
+}
+
+.link2:hover{
+    color: rgb(148, 250, 46);
+    transition: 0.5s;
+}
+
+p{ 
+    font-size: 13px;
+    margin-right: 175px;
+}
+
